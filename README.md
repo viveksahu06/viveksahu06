@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **viveksahu1006@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/viveksahu06/DataBase/blob/main/vivek_resume_conti.pdf](https://github.com/viveksahu06/DataBase/blob/main/vivek_resume_conti.pdf)
+- 📄 Know about my experiences [https://github.com/viveksahu06/DataBase/blob/main/vivek_resume_conti.pdf](https://github.com/viveksahu06/main/vivek_resume_conti.pdf)
 
 - ⚡ Fun fact **I can solve coding problems faster than I can decide what to have for lunch!**
 
