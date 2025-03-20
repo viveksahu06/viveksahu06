@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksahu06&label=Profile%20views&color=0e75b6&style=flat" alt="viveksahu06" /> </p>
 
-- 🔭 I’m currently working on [Technical Blogs (Ongoing)](https://github.com/viveksahu06/Tech-Blog)
+- 🔭 I’m currently working on [Microservices Spring Cloud(Ongoing)](https://github.com/viveksahu06/SpringCloud)
 
 - 🌱 I’m currently learning **SpringBoot, MicroServices**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **viveksahu1006@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/viveksahu06/DataBase/blob/main/vivek_resume_conti.pdf](https://github.com/viveksahu06/Database/blob/main/vivek_resume_conti.pdf)
+- 📄 Know about my experiences [https://github.com/viveksahu06/DataBase/blob/main/vivek_resume_conti.pdf](https://github.com/viveksahu06/)
 
 - ⚡ Fun fact **I can solve coding problems faster than I can decide what to have for lunch!**
 
