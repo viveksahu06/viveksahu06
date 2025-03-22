@@ -1,4 +1,4 @@
-![Header](C:\Users\ASUS\Desktop\github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm VIVEK KUMAR SAHU</h1>
 <h3 align="center">Engage with My Work and Interests. A passionate full stack developer from India.</h3> 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
